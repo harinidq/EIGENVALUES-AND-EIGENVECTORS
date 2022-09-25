@@ -20,7 +20,6 @@ A=np.array([[4,2],[2,4]])
 values, vectors=np.linalg.eig(A)
 print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
 ```
-
 ## Output:!![Screenshot from 2022-09-21 18-36-06](https://user-images.githubusercontent.com/113497680/191511942-36e1a9ff-4baf-48f8-9f5b-09445787e022.png)
 
 ## Result:
